@@ -50,7 +50,7 @@ class StudentEngienner:
         self.pronouns = "he"
         self.language_spoken = ["es_CL", "en_US"]
         self.hobbies = [
-        			"Fotografia",
+              "Fotografia",
               "Lectura",
               "No dormir",
               ]
