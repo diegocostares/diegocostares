@@ -8,6 +8,7 @@
   <br>
     :notebook: Actualmente estoy aprendiendo python <br>
     :art: Soy fotografo y puedes encontrarme en: <br>
+  <br>
   </samp>
 </p>
 
@@ -32,29 +33,19 @@
   </a>
 </p>
 
-
-
-
-<p align=center>
-  <a href="https://github.com/diegocostares">
-    <img src="https://badges.pufler.dev/visits/diegocostares/diegocostares?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/diegocostares?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/diegocostares?style=flat-square&color=black&logo=github">
-  </a>
-</p>
-
 ---
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=diegocostares&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+###Un poco de mi en codigo
 
-![VisitorCount](https://profile-counter.glitch.me/diegocostares/count.svg)
+##Un poco de mi en codigo
 
+#Un poco de mi en codigo
+
+<p align="center">
+  <br>
+  <samp> Un poco de mi en codigo</samp>
+</p>  
   
-  
----
-  
-<h3>
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
@@ -80,6 +71,16 @@ class StudentEngienner:
 me = StudentEngienner()
 me.say_hi()
 ```
-</h3>
- 
-  
+
+<p align=center>
+  <a href="https://github.com/diegocostares">
+    <img src="https://badges.pufler.dev/visits/diegocostares/diegocostares?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://github.com/diegocostares?tab=repositories">
+    <img src="https://badges.pufler.dev/repos/diegocostares?style=flat-square&color=black&logo=github">
+  </a>
+</p>
+
+---
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=diegocostares&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
