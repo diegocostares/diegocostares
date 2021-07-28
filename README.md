@@ -1,3 +1,9 @@
+<table border="1"  align="center">
+ <tr><td><a href="README.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/1200px-Bandera_de_Espa%C3%B1a.svg.png" height="10"> Spanish</a></td>
+ <td><a href="README_na.md"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" height="10"> English</a></td></tr>
+</table>
+
+
 <p align="center">
   <img src="https://github.com/diegocostares/diegocostares/blob/main/Images/aaa2.gif?raw=true" width="200px">
   <br><samp>
@@ -8,6 +14,7 @@
     :notebook: Actualmente estoy aprendiendo python <br>
     :art: Soy fotografo y puedes encontrarme en: <br>
   <br></samp>
+  
 </p>
 
 <p align="center">
@@ -63,12 +70,52 @@ me = StudentEngienner()
 me.say_hi()
 ```
 ---
+<details>
+  <summary><b><samp>:computer: &nbsp;Algunas estadisticas</samp></b></summary>
+  <br/></p>
 
 <!--START_SECTION:waka-->
+**Soy nocturno 🦉** 
+
+```text
+🌞 Mañana     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+🌆 Día        32 commits     █████████░░░░░░░░░░░░░░░░   35.96% 
+🌃 Tarde      12 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.48% 
+🌙 Noche      45 commits     ████████████░░░░░░░░░░░░░   50.56%
+
+```
+📅 **Soy más productivo los Miércoles** 
+
+```text
+Lunes        0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Martes       1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.12% 
+Miércoles    65 commits     ██████████████████░░░░░░░   73.03% 
+Jueves       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Viernes      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Sábado       11 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.36% 
+Domingo      12 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.48%
+
+```
+
+
+📊 **Esta semana me dediqué a** 
+
+```text
+🐱‍💻 Proyectos: 
+Sin actividad registrada esta semana
+
+```
+
+
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=diegocostares&show_icons=true&theme=ayu-mirage" alt="abhisheknaiidu" /></p>
+
+
+
+
 <!--END_SECTION:waka-->
-
-
-
+  
+</details>
 <p align=center>
   <a href="https://github.com/diegocostares">
     <img src="https://badges.pufler.dev/visits/diegocostares/diegocostares?style=flat-square&color=black&logo=github">
@@ -77,7 +124,3 @@ me.say_hi()
     <img src="https://badges.pufler.dev/repos/diegocostares?style=flat-square&color=black&logo=github">
   </a>
 </p>
-
-
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=diegocostares&show_icons=true&theme=gotham" alt="abhisheknaiidu" /></p>
