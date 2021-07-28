@@ -70,7 +70,7 @@ me.say_hi()
 ```
 ---
 
- <b><samp>:computer: &nbsp;Algunas estadisticas</samp></b>
+ <b><samp>:computer: &nbsp;Some statistics</samp></b>
   <br/></p>
 
 
