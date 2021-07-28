@@ -1,15 +1,13 @@
 <p align="center">
   <img src="https://github.com/diegocostares/diegocostares/blob/main/Images/aaa2.gif?raw=true" width="200px">
-  <br>
-  <samp>
+  <br><samp>
     Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="16px"> soy Diego Costa 👨🏻‍💻<br>
     Estudiante de ingeniería en la <br>
     Pontificia Universidad Católica de Chile :school:<br>
   <br>
     :notebook: Actualmente estoy aprendiendo python <br>
     :art: Soy fotografo y puedes encontrarme en: <br>
-  <br>
-  </samp>
+  <br></samp>
 </p>
 
 <p align="center">
@@ -65,14 +63,11 @@ me = StudentEngienner()
 me.say_hi()
 ```
 ---
-<h3>Estadisticas </h3>
+
 
 <!--START_SECTION:waka-->
 
-##Estadisticas
-
-*awa*
-
+<h3>Estadisticas </h3>
 
 <!--END_SECTION:waka-->
 
