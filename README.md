@@ -1,6 +1,6 @@
 <table border="1"  align="center">
  <tr><td><a href="README.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/1200px-Bandera_de_Espa%C3%B1a.svg.png" height="10"> Spanish</a></td>
- <td><a href="README_na.md"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" height="10"> English</a></td></tr>
+ <td><a href="README.en.md"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" height="10"> English</a></td></tr>
 </table>
 
 
