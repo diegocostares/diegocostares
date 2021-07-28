@@ -63,6 +63,9 @@ me = StudentEngienner()
 me.say_hi()
 ```
 ---
+<details>
+  <summary><b>:computer: &nbsp;Algunas estadisticas</b></summary>
+  <br/>
 
 <!--START_SECTION:waka-->
 **Soy nocturno 🦉** 
@@ -97,11 +100,15 @@ Sin actividad registrada esta semana
 ```
 
 
- Last Updated on 28/07/2021
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=diegocostares&show_icons=true&theme=ayu-mirage" alt="abhisheknaiidu" /></p>
+
+
+
+
 <!--END_SECTION:waka-->
-
-
-
+  
+</details>
 <p align=center>
   <a href="https://github.com/diegocostares">
     <img src="https://badges.pufler.dev/visits/diegocostares/diegocostares?style=flat-square&color=black&logo=github">
@@ -110,7 +117,3 @@ Sin actividad registrada esta semana
     <img src="https://badges.pufler.dev/repos/diegocostares?style=flat-square&color=black&logo=github">
   </a>
 </p>
-
-
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=diegocostares&show_icons=true&theme=gotham" alt="abhisheknaiidu" /></p>
