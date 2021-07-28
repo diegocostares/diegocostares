@@ -65,6 +65,59 @@ me.say_hi()
 ---
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Visitas%20al%20perfil-182-blue)
+
+![Lines of code](https://img.shields.io/badge/Desde%20Hola%20Mundo%20he%20escrito-820%20Lineas%20de%20c%C3%B3digo-blue)
+
+**🐱 Mis datos de Github** 
+
+> 🏆 69 Contribuciones durante el año 2021
+ > 
+> 📦 8.8 kB Almacenamiento de Github utilizado 
+ > 
+> 🚫 No abierto para contratación
+ > 
+> 📜 5 Repositorios Públicos 
+ > 
+> 🔑 1 Repositorio Privado 
+ > 
+**Soy nocturno 🦉** 
+
+```text
+🌞 Mañana     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+🌆 Día        30 commits     ████████░░░░░░░░░░░░░░░░░   34.48% 
+🌃 Tarde      12 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.79% 
+🌙 Noche      45 commits     █████████████░░░░░░░░░░░░   51.72%
+
+```
+📅 **Soy más productivo los Miércoles** 
+
+```text
+Lunes        0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Martes       1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.15% 
+Miércoles    63 commits     ██████████████████░░░░░░░   72.41% 
+Jueves       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Viernes      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Sábado       11 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.64% 
+Domingo      12 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.79%
+
+```
+
+
+📊 **Esta semana me dediqué a** 
+
+```text
+🐱‍💻 Proyectos: 
+Sin actividad registrada esta semana
+
+```
+
+**Cronología**
+
+![Chart not found](https://raw.githubusercontent.com/diegocostares/diegocostares/main/charts/bar_graph.png) 
+
+
+ Last Updated on 28/07/2021
 <!--END_SECTION:waka-->
 
 
