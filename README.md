@@ -107,10 +107,14 @@ Sin actividad registrada esta semana
 ```
 
 
- Last Updated on 28/07/2021
 <!--END_SECTION:waka-->
   
+  
+
+ <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=diegocostares&show_icons=true&theme=ayu-mirage" alt="abhisheknaiidu" /></p>
+ 
 </details>
+
 <p align=center>
   <a href="https://github.com/diegocostares">
     <img src="https://badges.pufler.dev/visits/diegocostares/diegocostares?style=flat-square&color=black&logo=github">
