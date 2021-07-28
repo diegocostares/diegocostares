@@ -1,10 +1,48 @@
-- 👋 Hi, I’m @diegocostares
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
+<p align="center">
+  <img src="https://i.ibb.co/LnnWfW4/aaaa.gif" width="200px">
+  <br>
+  <samp>
+    Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="16px"> soy Diego Costa 👨🏻‍💻<br>
+    Estudiante de ingeniería en la <br>
+    Pontificia Universidad Católica de Chile :school:<br>
+  <br>
+    :notebook: Actualmente estoy aprendiendo python <br>
+    :art: Soy fotografo y puedes encontrarme en: <br>
+  </samp>
+</p>
+<p align="center">
+   <a href="https://instagram.com/diegocosta_no" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="25px" width="25px" />
+  </a>
+  <a href="https://t.me/diegocosta_no" target="blank">
+  <img align="center" alt="Telegram" width="25px" src="https://icons-for-free.com/iconfiles/png/512/Telegram-1324888767380505522.png" />
+</a>
+<a href="https://api.whatsapp.com/send?phone=56971897835&text=Hola!" target="blank">
+  <img align="center" alt="wtsp" width="25px" src="https://img.icons8.com/pastel-glyph/2x/whatsapp--v2.png" />
+</a>
+<a href="https://www.linkedin.com/in/diego-costa-786249213/" target="blank">
+  <img align="center" alt="wtsp" width="25px" src="https://img.icons8.com/metro/452/linkedin.png" />
+</a>
 
-<!---
-diegocostares/diegocostares is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  </a>
+</p>
+
+
+
+
+
+<p align=center>
+  <a href="https://github.com/diegocostares">
+    <img src="https://badges.pufler.dev/visits/diegocostares/diegocostares?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://github.com/diegocostares?tab=repositories">
+    <img src="https://badges.pufler.dev/repos/diegocostares?style=flat-square&color=black&logo=github">
+  </a>
+</p>
+
+---
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=diegocostares&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+
+![VisitorCount](https://profile-counter.glitch.me/diegocostares/count.svg)
