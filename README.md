@@ -1,17 +1,3 @@
-<!--START_SECTION:waka-->
-
-**Soy batman🦉**
-```text
-```
-
-
-
-
-
-
-
-<!--END_SECTION:waka-->
-
 <p align="center">
   <img src="https://github.com/diegocostares/diegocostares/blob/main/Images/aaa2.gif?raw=true" width="200px">
   <br><samp>
@@ -66,8 +52,8 @@ class StudentEngienner:
         self.hobbies = [
         			"Fotografia",
               "Lectura",
-              "No dormir"
-            ]
+              "No dormir",
+              ]
 
     def say_hi(self):
         print("¡Wena mundo!")
@@ -78,7 +64,19 @@ me.say_hi()
 ```
 ---
 
+<!--START_SECTION:waka-->
 
+**Soy batman🦉**
+```text
+```
+
+
+
+
+
+
+
+<!--END_SECTION:waka-->
 
 
 
