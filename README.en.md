@@ -1,13 +1,20 @@
+<table border="1"  align="center">
+ <tr><td><a href="README.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/1200px-Bandera_de_Espa%C3%B1a.svg.png" height="10"> Spanish</a></td>
+ <td><a href="README.en.md"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" height="10"> English</a></td></tr>
+</table>
+
+
 <p align="center">
   <img src="https://github.com/diegocostares/diegocostares/blob/main/Images/aaa2.gif?raw=true" width="200px">
   <br><samp>
-    Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="16px"> soy Diego Costa 👨🏻‍💻<br>
-    Estudiante de ingeniería en la <br>
-    Pontificia Universidad Católica de Chile :school:<br>
+    Hellow! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="16px"> im Diego Costa 👨🏻‍💻<br>
+    Engineering student at the <br>
+    Pontifical Catholic University of Chile :school:<br>
   <br>
-    :notebook: Actualmente estoy aprendiendo python <br>
-    :art: Soy fotografo y puedes encontrarme en: <br>
+    :notebook: I am currently learning python <br>
+    :art: I am a photographer and you can find me at:  <br>
   <br></samp>
+  
 </p>
 
 <p align="center">
@@ -32,3 +39,54 @@
 </p>
 
 ---
+
+
+<p align="center"><font size="25"><samp>Abaut me</samp></front></p>
+
+
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+
+class StudentEngienner:
+
+    def __init__(self):
+        self.name = "Diego Costa"
+        self.role = "Student"
+        self.pronouns = "he"
+        self.language_spoken = ["es_CL", "en_US"]
+        self.hobbies = [
+              "photography",
+              "Lecture",
+              ]
+
+    def say_hi(self):
+        print("¡Hellow world!")
+
+
+me = StudentEngienner()
+me.say_hi()
+```
+---
+<details>
+  <summary><b><samp>:computer: &nbsp;Algunas estadisticas</samp></b></summary>
+  <br/></p>
+
+<!--START_SECTION:waka-->
+
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=diegocostares&show_icons=true&theme=ayu-mirage" alt="abhisheknaiidu" /></p>
+
+
+<!--END_SECTION:waka-->
+  
+</details>
+<p align=center>
+  <a href="https://github.com/diegocostares">
+    <img src="https://badges.pufler.dev/visits/diegocostares/diegocostares?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://github.com/diegocostares?tab=repositories">
+    <img src="https://badges.pufler.dev/repos/diegocostares?style=flat-square&color=black&logo=github">
+  </a>
+</p>
