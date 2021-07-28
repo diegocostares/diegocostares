@@ -1,4 +1,3 @@
-<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 <p align="center">
   <img src="https://github.com/diegocostares/diegocostares/blob/main/aaa2.gif?raw=true" width="200px">
   <br>
@@ -11,18 +10,23 @@
     :art: Soy fotografo y puedes encontrarme en: <br>
   </samp>
 </p>
+
 <p align="center">
    <a style="border: 3px solid; color: white;"href="https://instagram.com/diegocosta_no" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="25px" width="25px" />
+    <img style="border: 10px solid; color: red;"
+    align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="25px" width="25px" />
   </a>
   <a style="border: 3px solid; color: white;"href="https://t.me/diegocosta_no" target="blank">
-  <img align="center" alt="Telegram" width="25px" src="https://icons-for-free.com/iconfiles/png/512/Telegram-1324888767380505522.png" />
+  <img style="border: 10px solid; color: red;"
+  align="center" alt="Telegram" width="25px" src="https://icons-for-free.com/iconfiles/png/512/Telegram-1324888767380505522.png" />
 </a>
 <a style="border: 3px solid; color: white;"href="https://api.whatsapp.com/send?phone=56971897835&text=Hola!" target="blank">
-  <img align="center" alt="wtsp" width="25px" src="https://img.icons8.com/pastel-glyph/2x/whatsapp--v2.png" />
+  <img style="border: 10px solid; color: white;"
+  align="center" alt="wtsp" width="25px" src="https://img.icons8.com/pastel-glyph/2x/whatsapp--v2.png" />
 </a>
 <a style="border: 3px solid; color: white;"href="https://www.linkedin.com/in/diego-costa-786249213/" target="blank">
-  <img align="center" alt="wtsp" width="25px" src="https://img.icons8.com/metro/452/linkedin.png" />
+  <img style="border: 10px solid; color: white;"
+  align="center" alt="wtsp" width="25px" src="https://img.icons8.com/metro/452/linkedin.png" />
 </a>
 
   </a>
