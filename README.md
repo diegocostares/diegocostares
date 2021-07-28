@@ -64,17 +64,10 @@ class StudentEngienner:
 me = StudentEngienner()
 me.say_hi()
 ```
+---
+<h3>Estadisticas </h3>
 
 <!--START_SECTION:waka-->
-```text
-Week: 21 July, 2021 - 27 July, 2021
-
-JavaScript    8 hrs 34 mins   ██████████████████████░░░   88.63 % 
-Groovy        21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
-Diff          14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
-JSON          9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
-Objective-C   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
-```
 <!--END_SECTION:waka-->
 
 
@@ -87,6 +80,6 @@ Objective-C   7 mins          ▒░░░░░░░░░░░░░░░�
   </a>
 </p>
 
----
+
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=diegocostares&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
