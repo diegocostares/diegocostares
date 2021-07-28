@@ -1,3 +1,7 @@
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 <p align="center">
   <img src="https://github.com/diegocostares/diegocostares/blob/main/aaa2.gif?raw=true" width="200px">
   <br>
@@ -67,8 +71,6 @@ me.say_hi()
 ---
 <h3>Estadisticas </h3>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 
 <p align=center>
