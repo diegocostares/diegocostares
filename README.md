@@ -50,10 +50,10 @@ class StudentEngienner:
         self.pronouns = "he"
         self.language_spoken = ["es_CL", "en_US"]
         self.hobbies = [
-        			"Fotografia",
+              "Fotografia",
               "Lectura",
-              "No dormir"
-            ]
+              "No dormir",
+              ]
 
     def say_hi(self):
         print("¡Wena mundo!")
@@ -64,12 +64,9 @@ me.say_hi()
 ```
 ---
 
-
 <!--START_SECTION:waka-->
-
-<h3>Estadisticas </h3>
-
 <!--END_SECTION:waka-->
+
 
 
 <p align=center>
