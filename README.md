@@ -66,9 +66,8 @@ me.say_hi()
 
 <!--START_SECTION:waka-->
 
-**Soy batman🦉**
-```text
-```
+
+
 
 
 
