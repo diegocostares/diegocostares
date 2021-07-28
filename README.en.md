@@ -69,19 +69,17 @@ me = StudentEngienner()
 me.say_hi()
 ```
 ---
-<details>
-  <summary><b><samp>:computer: &nbsp;Algunas estadisticas</samp></b></summary>
+
+ <b><samp>:computer: &nbsp;Algunas estadisticas</samp></b>
   <br/></p>
 
-<!--START_SECTION:waka-->
+
 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=diegocostares&show_icons=true&theme=ayu-mirage" alt="abhisheknaiidu" /></p>
 
-
-<!--END_SECTION:waka-->
   
-</details>
+
 <p align=center>
   <a href="https://github.com/diegocostares">
     <img src="https://badges.pufler.dev/visits/diegocostares/diegocostares?style=flat-square&color=black&logo=github">
