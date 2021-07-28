@@ -1,6 +1,6 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 <p align="center">
-  <img src="https://s6.gifyu.com/images/aaa20d70522e87249c1e.gif" width="200px">
+  <img src="https://github.com/diegocostares/diegocostares/blob/main/aaa2.gif?raw=true" width="200px">
   <br>
   <samp>
     Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="16px"> soy Diego Costa 👨🏻‍💻<br>
