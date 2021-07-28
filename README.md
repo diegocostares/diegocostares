@@ -67,6 +67,11 @@ me.say_hi()
 ---
 <h3>Estadisticas </h3>
 <!--START_SECTION:waka-->
+
+<!--SHOW_COMMIT:START-->
+<!--SHOW_COMMIT:END-->
+
+
 <!--END_SECTION:waka-->
 
 
