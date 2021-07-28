@@ -7,11 +7,6 @@
 
 
 
-
-
-
-<!--END_SECTION:waka-->
-
 <p align="center">
   <img src="https://github.com/diegocostares/diegocostares/blob/main/Images/aaa2.gif?raw=true" width="200px">
   <br><samp>
@@ -94,3 +89,4 @@ me.say_hi()
 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=diegocostares&show_icons=true&theme=gotham" alt="abhisheknaiidu" /></p>
+<!--END_SECTION:waka-->
