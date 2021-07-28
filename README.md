@@ -35,17 +35,10 @@
 
 ---
 
-###Un poco de mi en codigo
 
-##Un poco de mi en codigo
+<p align="center"><font size="25"><samp>Un poco de mi en codigo</samp></front></p>
 
-#Un poco de mi en codigo
 
-<p align="center">
-  <br>
-  <samp> Un poco de mi en codigo</samp>
-</p>  
-  
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
@@ -71,6 +64,19 @@ class StudentEngienner:
 me = StudentEngienner()
 me.say_hi()
 ```
+
+<!--START_SECTION:waka-->
+```text
+Week: 21 July, 2021 - 27 July, 2021
+
+JavaScript    8 hrs 34 mins   ██████████████████████░░░   88.63 % 
+Groovy        21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+Diff          14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+JSON          9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+Objective-C   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+```
+<!--END_SECTION:waka-->
+
 
 <p align=center>
   <a href="https://github.com/diegocostares">
