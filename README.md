@@ -27,7 +27,6 @@
 
 <p align="center"><font size="25"><samp>Un poco de mi en codigo</samp></front></p>
 
-
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
