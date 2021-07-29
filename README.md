@@ -1,7 +1,7 @@
-<table border="1"  align="center">
+<table border="0"  align="right">
  <tr><td><a href="README.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/1200px-Bandera_de_Espa%C3%B1a.svg.png" height="10"> Spanish</a></td>
  <td><a href="README.en.md"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" height="10"> English</a></td></tr>
-</table>
+</table><br><br><br>
 
 
 <p align="center">
@@ -49,12 +49,12 @@
 # -*- coding: utf-8 -*-
 
 
-class StudentEngienner:
+class EngiennerStudent:
 
     def __init__(self):
         self.name = "Diego Costa"
         self.role = "Estudiante"
-        self.pronouns = "he"
+        self.pronouns = "he/him"
         self.language_spoken = ["es_CL", "en_US"]
         self.hobbies = [
               "Fotografia",
