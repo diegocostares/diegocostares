@@ -65,7 +65,7 @@ class EngiennerStudent:
         print("¡Hellow world!")
 
 
-me = StudentEngienner()
+me = EngiennerStudent()
 me.say_hi()
 ```
 ---
