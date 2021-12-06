@@ -75,7 +75,7 @@ me.say_hi()
   <br/></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-241%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-241%20hrs%2014%20mins-blue)
 
 **Soy nocturno 🦉** 
 
