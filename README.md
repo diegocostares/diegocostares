@@ -75,7 +75,7 @@ me.say_hi()
   <br/></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-266%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-266%20hrs%2057%20mins-blue)
 
 **Soy nocturno 🦉** 
 
@@ -111,7 +111,7 @@ valgrind-docker          12 mins             ██░░░░░░░░░�
 ```
 
 
- Last Updated on 14/03/2022 12:37:20 UTC
+ Last Updated on 14/03/2022 14:22:21 UTC
 <!--END_SECTION:waka-->
   
   
