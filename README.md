@@ -75,7 +75,7 @@ me.say_hi()
   <br/></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-388%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-389%20hrs%2047%20mins-blue)
 
 **Soy nocturno 🦉** 
 
@@ -113,7 +113,7 @@ BDD                      11 mins             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 25/04/2022 01:58:42 UTC
+ Last Updated on 25/04/2022 03:20:05 UTC
 <!--END_SECTION:waka-->
   
   
