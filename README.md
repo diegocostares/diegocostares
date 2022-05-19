@@ -75,7 +75,7 @@ me.say_hi()
   <br/></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-478%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 **Soy nocturno 🦉** 
 
@@ -113,7 +113,7 @@ DiegoDelpiano            52 mins             █░░░░░░░░░░�
 ```
 
 
- Last Updated on 19/05/2022 02:12:13 UTC
+ Last Updated on 19/05/2022 04:41:48 UTC
 <!--END_SECTION:waka-->
   
   
