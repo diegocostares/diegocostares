@@ -75,7 +75,7 @@ me.say_hi()
   <br/></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-498%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 **Soy nocturno 🦉** 
 
@@ -113,7 +113,7 @@ ejemplos                 7 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 28/05/2022 03:16:17 UTC
+ Last Updated on 28/05/2022 04:32:46 UTC
 <!--END_SECTION:waka-->
   
   
