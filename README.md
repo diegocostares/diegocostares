@@ -75,7 +75,7 @@ me.say_hi()
   <br/></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-506%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-506%20hrs%2036%20mins-blue)
 
 **Soy nocturno 🦉** 
 
@@ -113,7 +113,7 @@ edd-docker               15 mins             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 29/05/2022 06:32:05 UTC
+ Last Updated on 29/05/2022 08:29:57 UTC
 <!--END_SECTION:waka-->
   
   
