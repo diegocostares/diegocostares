@@ -75,7 +75,7 @@ me.say_hi()
   <br/></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-574%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 **Soy nocturno 🦉** 
 
@@ -113,7 +113,7 @@ CamilaOlavarria          23 mins             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 19/06/2022 02:22:41 UTC
+ Last Updated on 19/06/2022 04:37:30 UTC
 <!--END_SECTION:waka-->
   
   
