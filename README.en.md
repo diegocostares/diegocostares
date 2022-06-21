@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://github.com/diegocostares/diegocostares/blob/main/Images/aaa2.gif?raw=true" width="200px">
   <br><samp>
-    Hellow! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="16px"> im Diego Costa 👨🏻‍💻<br>
+    Hellow! Im Diego Costa 👨🏻‍💻<br>
     Engineering student at the <br>
     Pontifical Catholic University of Chile :school:<br>
   <br>
