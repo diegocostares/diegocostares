@@ -75,7 +75,7 @@ me.say_hi()
   <br/></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-592%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-592%20hrs%2059%20mins-blue)
 
 **Soy nocturno 🦉** 
 
@@ -113,7 +113,7 @@ AmbarAraus               39 mins             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 23/06/2022 16:35:32 UTC
+ Last Updated on 23/06/2022 18:31:11 UTC
 <!--END_SECTION:waka-->
   
   
