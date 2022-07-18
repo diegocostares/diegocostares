@@ -111,7 +111,7 @@ latex resumen-iic1253-mai0 secs              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 18/07/2022 20:25:08 UTC
+ Last Updated on 18/07/2022 22:24:43 UTC
 <!--END_SECTION:waka-->
   
   
