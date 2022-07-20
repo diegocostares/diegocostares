@@ -75,7 +75,7 @@ me.say_hi()
   <br/></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-620%20hrs%2046%20mins-blue)
 
 **Soy nocturno 🦉** 
 
@@ -104,12 +104,12 @@ Domingo      96 commits     █████░░░░░░░░░░░░�
 
 ```text
 🐱‍💻 Proyectos: 
-latex resumen-iic1253-mai0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+Sin actividad registrada esta semana
 
 ```
 
 
- Last Updated on 20/07/2022 04:49:53 UTC
+ Last Updated on 20/07/2022 06:30:53 UTC
 <!--END_SECTION:waka-->
   
   
