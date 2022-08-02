@@ -114,15 +114,6 @@ Sin actividad registrada esta semana
   
   
 
- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=diegocostares&show_icons=true&theme=ayu-mirage" alt="abhisheknaiidu" /></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=diegocostares&show_icons=true&theme=ayu-mirage" alt="abhisheknaiidu" /></p>
  
 </details>
-
-<p align=center>
-  <a href="https://github.com/diegocostares">
-    <img src="https://badges.pufler.dev/visits/diegocostares/diegocostares?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/diegocostares?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/diegocostares?style=flat-square&color=black&logo=github">
-  </a>
-</p>
