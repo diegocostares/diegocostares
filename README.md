@@ -75,7 +75,7 @@ me.say_hi()
   <br/></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-627%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-627%20hrs%2054%20mins-blue)
 
 **Soy nocturno 🦉** 
 
@@ -112,7 +112,7 @@ PautaT0-2022-2           0 secs              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 28/08/2022 18:30:02 UTC
+ Last Updated on 28/08/2022 20:26:04 UTC
 <!--END_SECTION:waka-->
   
   
