@@ -75,7 +75,7 @@ me.say_hi()
   <br/></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-632%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-630%20hrs%2047%20mins-blue)
 
 **Soy nocturno 🦉** 
 
@@ -113,7 +113,7 @@ grupo-FFBG-frontend      4 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 05/09/2022 02:40:10 UTC
+ Last Updated on 05/09/2022 05:37:00 UTC
 <!--END_SECTION:waka-->
   
   
