@@ -7,11 +7,11 @@
 <p align="center">
   <img src="https://github.com/diegocostares/diegocostares/blob/main/Images/aaa2.gif?raw=true" height="200px">
   <br><samp>
-    Hello! Im Diego Costa 👨🏻‍💻<br>
+    Hello! I'm Diego Costa 👨🏻‍💻<br>
     Engineering student at the <br>
     Pontifical Catholic University of Chile :school:<br>
   <br>
-    :notebook: I am currently learning python <br>
+    :notebook: I am currently learning Python <br>
     :art: I am a photographer and you can find me at:  <br>
   <br></samp>
   
@@ -62,7 +62,7 @@ class EngiennerStudent:
               ]
 
     def say_hi(self):
-        print("¡Hello world!")
+        print("¡Hellow world!")
 
 
 me = EngiennerStudent()
