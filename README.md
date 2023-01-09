@@ -75,7 +75,7 @@ me.say_hi()
   <br/></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-744%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-744%20hrs%2015%20mins-blue)
 
 **Soy nocturno 🦉** 
 
@@ -104,14 +104,14 @@ Domingo      125 commits    █████░░░░░░░░░░░░�
 
 ```text
 🐱‍💻 Proyectos: 
-open-wiki                6 hrs 33 mins       █████████████████████░░░░   85.03% 
-Unknown Project          1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.91% 
-Conocimiento, cultura y t4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.06%
+open-wiki                6 hrs 47 mins       █████████████████████░░░░   85.49% 
+Unknown Project          1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.48% 
+Conocimiento, cultura y t4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.02%
 
 ```
 
 
- Last Updated on 09/01/2023 04:25:16 UTC
+ Last Updated on 09/01/2023 06:26:23 UTC
 <!--END_SECTION:waka-->
   
   
