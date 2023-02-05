@@ -75,7 +75,7 @@ me.say_hi()
   <br/></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-763%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-763%20hrs%2016%20mins-blue)
 
 **Soy nocturno 🦉** 
 
@@ -109,7 +109,7 @@ Analisis de datos futbol 4 hrs 27 mins       ███████████�
 ```
 
 
- Last Updated on 05/02/2023 02:53:53 UTC
+ Last Updated on 05/02/2023 04:24:15 UTC
 <!--END_SECTION:waka-->
   
   
