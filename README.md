@@ -75,7 +75,7 @@ me.say_hi()
   <br/></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-772%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-772%20hrs%2039%20mins-blue)
 
 **Soy nocturno 🦉** 
 
@@ -106,7 +106,7 @@ Sin actividad registrada esta semana
 ```
 
 
- Last Updated on 22/02/2023 22:18:30 UTC
+ Last Updated on 23/02/2023 01:43:23 UTC
 <!--END_SECTION:waka-->
   
   
