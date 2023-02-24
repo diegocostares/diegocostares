@@ -75,7 +75,7 @@ me.say_hi()
   <br/></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-772%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-772%20hrs%2039%20mins-blue)
 
 **Soy nocturno 🦉** 
 
@@ -106,7 +106,7 @@ Stream Elements - Clean M33 mins             ███████████�
 ```
 
 
- Last Updated on 24/02/2023 02:50:12 UTC
+ Last Updated on 24/02/2023 04:25:58 UTC
 <!--END_SECTION:waka-->
   
   
