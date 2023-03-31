@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/diegocostares/diegocostares/blob/main/Images/aaa2.gif?raw=true" height="200px">
+  <img src="https://github.com/diegocostares/diegocostares/blob/main/Images/aaa2.gif?raw=true" height="200px" weight="200px">
   <br><samp>
     Hello! Im Diego Costa 👨🏻‍💻<br>
     Engineering student at the <br>
