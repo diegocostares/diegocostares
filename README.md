@@ -75,7 +75,7 @@ me.say_hi()
   <br/></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-935%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-935%20hrs%204%20mins-blue)
 
 **Soy nocturno 🦉** 
 
@@ -110,7 +110,7 @@ rails_docker_compose_psql2 hrs 34 mins       ██░░░░░░░░░�
 ```
 
 
- Last Updated on 18/05/2023 02:35:43 UTC
+ Last Updated on 18/05/2023 04:22:14 UTC
 <!--END_SECTION:waka-->
   
   
