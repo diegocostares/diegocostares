@@ -75,7 +75,7 @@ me.say_hi()
   <br/></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-943%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-943%20hrs%2047%20mins-blue)
 
 **Soy nocturno 🦉** 
 
@@ -110,7 +110,7 @@ testapi                  45 mins             █░░░░░░░░░░�
 ```
 
 
- Last Updated on 21/05/2023 06:22:42 UTC
+ Last Updated on 21/05/2023 08:21:27 UTC
 <!--END_SECTION:waka-->
   
   
