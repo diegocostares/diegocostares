@@ -75,7 +75,7 @@ me.say_hi()
   <br/></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-953%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-953%20hrs%2026%20mins-blue)
 
 **Soy nocturno 🦉** 
 
@@ -110,7 +110,7 @@ server respaldlo         29 mins             █░░░░░░░░░░�
 ```
 
 
- Last Updated on 23/05/2023 01:37:38 UTC
+ Last Updated on 23/05/2023 02:36:54 UTC
 <!--END_SECTION:waka-->
   
   
