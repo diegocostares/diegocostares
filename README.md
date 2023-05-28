@@ -110,7 +110,7 @@ Tarea2                   3 hrs 40 mins       ██░░░░░░░░░�
 ```
 
 
- Last Updated on 28/05/2023 14:15:40 UTC
+ Last Updated on 28/05/2023 16:22:46 UTC
 <!--END_SECTION:waka-->
   
   
