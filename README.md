@@ -75,7 +75,7 @@ me.say_hi()
   <br/></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C121%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C120%20hrs%2056%20mins-blue)
 
 📅 **Soy más productivo los Martes** 
 
@@ -94,12 +94,11 @@ Domingo                  633 commits         ████░░░░░░░�
 
 ```text
 🐱‍💻 Proyectos: 
-latex-templates          1 hr 5 mins         ████████████████████░░░░░   78.84 % 
-ucalendar                17 mins             █████░░░░░░░░░░░░░░░░░░░░   21.16 % 
+latex-templates          1 hr 35 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 13/08/2023 19:24:41 UTC
+ Last Updated on 14/08/2023 18:33:38 UTC
 <!--END_SECTION:waka-->
   
   
