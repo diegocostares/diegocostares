@@ -75,7 +75,7 @@ me.say_hi()
   <br/></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C128%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C128%20hrs%208%20mins-blue)
 
 📅 **Soy más productivo los Martes** 
 
@@ -99,7 +99,7 @@ latex-templates          1 hr 40 mins        ██████░░░░░�
 ```
 
 
- Last Updated on 19/08/2023 19:17:09 UTC
+ Last Updated on 19/08/2023 19:18:49 UTC
 <!--END_SECTION:waka-->
   
   
