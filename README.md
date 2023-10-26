@@ -18,16 +18,19 @@
 
 <p align="center">
    <a href="https://instagram.com/diegocosta_no" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="25px" width="25px" />
-  </a>
-  &nbsp; &nbsp;
-  <a href="https://t.me/diegocosta_no" target="blank">
-    <img align="center" alt="Telegram" width="25px" src="https://icons-for-free.com/iconfiles/png/512/Telegram-1324888767380505522.png" />
-  </a>
-  &nbsp; &nbsp;
-  <a href="https://www.linkedin.com/in/diegocostar/" target="blank">
-    <img align="center" alt="LinkedIn" width="25px" src="https://img.icons8.com/metro/452/linkedin.png" />
-  </a>
+      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="25px" width="25px" />
+      &#8203;
+   </a>
+   &nbsp; &nbsp; &nbsp;
+   <a href="https://t.me/diegocosta_no" target="blank">
+      <img align="center" alt="Telegram" width="25px" src="https://icons-for-free.com/iconfiles/png/512/Telegram-1324888767380505522.png" />
+      &#8203;
+   </a>
+   &nbsp; &nbsp; &nbsp;
+   <a href="https://www.linkedin.com/in/diegocostar/" target="blank">
+      <img align="center" alt="LinkedIn" width="25px" src="https://img.icons8.com/metro/452/linkedin.png" />
+      &#8203;
+   </a>
 </p>
 
 ---
