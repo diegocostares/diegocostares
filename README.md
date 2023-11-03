@@ -89,13 +89,12 @@ Domingo                  805 commits         ████░░░░░░░�
 
 ```text
 🐱‍💻 Proyectos: 
-diegocostares            39 mins             ███████████░░░░░░░░░░░░░░   43.82 % 
-Unknown Project          33 mins             █████████░░░░░░░░░░░░░░░░   37.06 % 
-P1-SyR                   17 mins             █████░░░░░░░░░░░░░░░░░░░░   19.11 % 
+Unknown Project          33 mins             █████████████████░░░░░░░░   69.07 % 
+P1-SyR                   14 mins             ████████░░░░░░░░░░░░░░░░░   30.93 % 
 ```
 
 
- Last Updated on 02/11/2023 18:35:18 UTC
+ Last Updated on 03/11/2023 18:35:38 UTC
 <!--END_SECTION:waka-->
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=diegocostares&show_icons=true&theme=ayu-mirage" alt="abhisheknaiidu" /></p>
