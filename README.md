@@ -70,7 +70,7 @@ me.say_hi()
   <br/></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C272%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C272%20hrs%203%20mins-blue)
 
 📅 **Soy más productivo los Martes** 
 
@@ -89,12 +89,13 @@ Domingo                  814 commits         ████░░░░░░░�
 
 ```text
 🐱‍💻 Proyectos: 
-Unknown Project          33 mins             █████████████████░░░░░░░░   69.07 % 
-P1-SyR                   14 mins             ████████░░░░░░░░░░░░░░░░░   30.93 % 
+Unknown Project          33 mins             ████████████████░░░░░░░░░   64.63 % 
+P1-SyR                   14 mins             ███████░░░░░░░░░░░░░░░░░░   28.95 % 
+codefest.osuc.dev        3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
 ```
 
 
- Last Updated on 04/11/2023 18:33:31 UTC
+ Last Updated on 05/11/2023 18:33:51 UTC
 <!--END_SECTION:waka-->
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=diegocostares&show_icons=true&theme=ayu-mirage" alt="abhisheknaiidu" /></p>
