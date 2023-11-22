@@ -70,7 +70,7 @@ me.say_hi()
   <br/></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C321%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C325%20hrs%2033%20mins-blue)
 
 📅 **Soy más productivo los Martes** 
 
@@ -89,15 +89,15 @@ Domingo                  854 commits         ████░░░░░░░�
 
 ```text
 🐱‍💻 Proyectos: 
-tarea-3-diegocostares    21 hrs 53 mins      ██████████████████████░░░   89.26 % 
-P0-SyR                   1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
-dashboard-store-v1-main  24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
-react-tansktack-table-mas11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
-componentes              9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+tarea-3-diegocostares    4 hrs 44 mins       ██████████████░░░░░░░░░░░   57.57 % 
+P0-SyR                   1 hr 52 mins        ██████░░░░░░░░░░░░░░░░░░░   22.76 % 
+portafolio               59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+portafolio2              28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
+componentes              9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
 ```
 
 
- Last Updated on 21/11/2023 18:37:09 UTC
+ Last Updated on 22/11/2023 18:34:50 UTC
 <!--END_SECTION:waka-->
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=diegocostares&show_icons=true&theme=ayu-mirage" alt="abhisheknaiidu" /></p>
