@@ -89,14 +89,12 @@ Domingo                  491 commits         █████░░░░░░�
 
 ```text
 🐱‍💻 Proyectos: 
-portafolio               59 mins             ███████████████░░░░░░░░░░   60.31 % 
-portafolio2              28 mins             ███████░░░░░░░░░░░░░░░░░░   28.65 % 
-componentes              9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
-tarea-3-diegocostares    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+portafolio               59 mins             █████████████████░░░░░░░░   67.79 % 
+portafolio2              28 mins             ████████░░░░░░░░░░░░░░░░░   32.21 % 
 ```
 
 
- Last Updated on 25/11/2023 18:33:08 UTC
+ Last Updated on 26/11/2023 18:33:03 UTC
 <!--END_SECTION:waka-->
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=diegocostares&show_icons=true&theme=ayu-mirage" alt="abhisheknaiidu" /></p>
