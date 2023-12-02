@@ -70,7 +70,7 @@ me.say_hi()
   <br/></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C328%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C328%20hrs%2033%20mins-blue)
 
 📅 **Soy más productivo los Domingo** 
 
@@ -89,13 +89,13 @@ Domingo                  477 commits         █████░░░░░░�
 
 ```text
 🐱‍💻 Proyectos: 
-proyecto-2023-2-proyecto-2 hrs 3 mins        ██████████████████░░░░░░░   70.71 % 
-proyecto-2023-2-grupo-11 42 mins             ██████░░░░░░░░░░░░░░░░░░░   23.97 % 
-tarea-3-diegocostares    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
+proyecto-2023-2-proyecto-2 hrs 6 mins        ██████████████████░░░░░░░   70.38 % 
+proyecto-2023-2-grupo-11 42 mins             ██████░░░░░░░░░░░░░░░░░░░   23.36 % 
+tarea-3-diegocostares    11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
 ```
 
 
- Last Updated on 01/12/2023 18:35:14 UTC
+ Last Updated on 02/12/2023 18:33:13 UTC
 <!--END_SECTION:waka-->
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=diegocostares&show_icons=true&theme=ayu-mirage" alt="abhisheknaiidu" /></p>
