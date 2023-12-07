@@ -70,8 +70,31 @@ me.say_hi()
   <br/></p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C328%20hrs%2033%20mins-blue)
 
- Last Updated on 06/12/2023 18:35:10 UTC
+📅 **Soy más productivo los Domingo** 
+
+```text
+Lunes                    367 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
+Martes                   310 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
+Miércoles                449 commits         █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
+Jueves                   438 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
+Viernes                  173 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
+Sábado                   242 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+Domingo                  477 commits         █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
+```
+
+
+📊 **Esta semana me dediqué a** 
+
+```text
+🐱‍💻 Proyectos: 
+proyecto-2023-2-proyecto-2 mins              ███████████████░░░░░░░░░░   58.05 % 
+tarea-3-diegocostares    1 min               ██████████░░░░░░░░░░░░░░░   41.95 % 
+```
+
+
+ Last Updated on 07/12/2023 18:35:27 UTC
 <!--END_SECTION:waka-->
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=diegocostares&show_icons=true&theme=ayu-mirage" alt="abhisheknaiidu" /></p>
