@@ -89,12 +89,11 @@ Domingo                  477 commits         █████░░░░░░�
 
 ```text
 🐱‍💻 Proyectos: 
-proyecto-2023-2-proyecto-2 mins              ███████████████░░░░░░░░░░   58.05 % 
-tarea-3-diegocostares    1 min               ██████████░░░░░░░░░░░░░░░   41.95 % 
+Sin actividad registrada esta semana
 ```
 
 
- Last Updated on 07/12/2023 18:35:27 UTC
+ Last Updated on 08/12/2023 18:34:58 UTC
 <!--END_SECTION:waka-->
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=diegocostares&show_icons=true&theme=ayu-mirage" alt="abhisheknaiidu" /></p>
