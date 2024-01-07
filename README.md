@@ -70,7 +70,7 @@ me.say_hi()
   <br/></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C372%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C374%20hrs%2052%20mins-blue)
 
 📅 **Soy más productivo los Domingo** 
 
@@ -89,15 +89,15 @@ Domingo                  480 commits         █████░░░░░░�
 
 ```text
 🐱‍💻 Proyectos: 
-BetpracticeSpider        27 hrs 8 mins       █████████████████████████   98.81 % 
-Unknown Project          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
-scraper antiguo          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
-scraper2                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
-homebrew                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+BetpracticeSpider        15 hrs 23 mins      ████████████████░░░░░░░░░   64.88 % 
+buscacursos              7 hrs 32 mins       ████████░░░░░░░░░░░░░░░░░   31.79 % 
+CupoSmart                17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+BDD                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+Unknown Project          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 ```
 
 
- Last Updated on 06/01/2024 18:33:27 UTC
+ Last Updated on 07/01/2024 18:33:06 UTC
 <!--END_SECTION:waka-->
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=diegocostares&show_icons=true&theme=ayu-mirage" alt="abhisheknaiidu" /></p>
