@@ -8,8 +8,8 @@
   <br><samp>
     Hola soy Diego Costa 👨🏻‍💻<br>
     Licenciado en Ciencias de la Ingeniería 🤖<br>
-    Estudiante de Ingeniería Civil Industrial con diploma en Tecnologías de la Información 🧠<br>
-    Coordinador de la comunidad universitaria <a href="https://github.com/open-source-uc">OpenSourceUc - OSUC</a> 🌐<br>
+    Ingeniería Civil Industrial con diploma en Tecnologías de la Información 🧠<br>
+    Ex coordinador de la comunidad universitaria <a href="https://github.com/open-source-uc">OpenSourceUc - OSUC</a> 🌐<br>
   <br>
     💡 Me esfuerzo por marcar la diferencia y contribuir a crear un mundo mejor.<br>
     📸 Amante de la fotografía. Encuéntrame en: <br>
@@ -46,7 +46,7 @@ class Engineer:
 
     def __init__(self):
         self.name = "Diego Costa"
-        self.role = "Licenciado y Estudiante de Ingeniería Civil Industrial"
+        self.role = "Ingeniero Civil Industrial con diploma en Tecnologías de la Información"
         self.university = "Pontificia Universidad Católica de Chile"
         self.language_spoken = ["es_CL", "en_US"]
         self.hobbies = [
