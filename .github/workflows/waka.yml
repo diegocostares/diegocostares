@@ -6,6 +6,9 @@ on:
   schedule:
     # Runs at 12am
     - cron: '30 18 * * *'
+  pull_request:
+    branches:
+      - main
 
 jobs:
   update-readme:
