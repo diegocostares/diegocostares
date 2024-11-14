@@ -70,3 +70,8 @@ me.say_hi()
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=diegocostares&show_icons=true&theme=ayu-mirage" alt="GitHub Stats" /></p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/<USERNAME>/<REPO>/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/<USERNAME>/<REPO>/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/<USERNAME>/<REPO>/output/github-snake.svg" />
+</picture>
