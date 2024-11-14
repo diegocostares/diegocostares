@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/diegocostares/diegocostares/blob/main/Images/aaa2.gif?raw=true" height="200px" width="230px" alt="Image of Diego Costa">
+  <img src="https://raw.githubusercontent.com/diegocostares/diegocostares/files/photo.gif" height="200px" width="230px" alt="Image of Diego Costa">
   <h2>Hi, I'm Diego Costa 👨🏻‍💻</h2>
   <p>
     Bachelor in Engineering Sciences 🤖<br>
