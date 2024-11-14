@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/diegocostares/diegocostares/blob/main/Images/aaa2.gif?raw=true" height="200px" width="230px" alt="Imagen de Diego Costa">
+  <img src="https://raw.githubusercontent.com/diegocostares/diegocostares/output/photo.gif"  height="200px" width="230px" alt="Imagen de Diego Costa">
   <h2>Hola, soy Diego Costa 👨🏻‍💻</h2>
   <p>
     Licenciado en Ciencias de la Ingeniería 🤖<br>
@@ -80,3 +80,10 @@ me.say_hi()
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=diegocostares&show_icons=true&theme=ayu-mirage" alt="GitHub Stats" /></p>
 
 </details>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diegocostares/diegocostares/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/diegocostares/diegocostares/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/diegocostares/diegocostares/output/github-snake.svg" />
+</picture>
