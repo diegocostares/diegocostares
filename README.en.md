@@ -1,41 +1,46 @@
-<table border="0"  align="right">
- <tr><td><a href="README.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/1200px-Bandera_de_Espa%C3%B1a.svg.png" height="10"> Spanish</a></td>
- <td><a href="README.en.md"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" height="10"> English</a></td></tr>
-</table><br><br><br>
+<div align="right">
+  <a href="README.md">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/1200px-Bandera_de_Espa%C3%B1a.svg.png" alt="Español" height="14px">
+    Español
+  </a>
+  <span style="margin: 0 8px; color: #ccc;">|</span>
+  <a href="README.en.md">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="English" height="14px">
+    English
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github.com/diegocostares/diegocostares/blob/main/Images/aaa2.gif?raw=true" height="200px" width="230px" alt="Image of Diego Costa">
+  <h2>Hi, I'm Diego Costa 👨🏻‍💻</h2>
+  <p>
+    Bachelor in Engineering Sciences 🤖<br>
+    Industrial Civil Engineer in Computing with a specialization in Information Technology 🧠<br>
+    Former coordinator of the university community <a href="https://github.com/open-source-uc">OpenSourceUc - OSUC</a> 🌐<br>
+  </p>
+  <p>
+    💡 Passionate about making a difference and creating a better world.<br>
+    📸 Photography enthusiast. Find me on:
+  </p>
+</div>
 
 <p align="center">
-  <img src="https://github.com/diegocostares/diegocostares/blob/main/Images/aaa2.gif?raw=true" height="200px" weight="200px">
-  <br><samp>
-    Hi, I'm Diego Costa 👨🏻‍💻<br>
-    Bachelor of Engineering Sciences 🤖<br>
-    Student of Industrial Civil Engineering with a diploma in Information Technology 🧠<br>
-    Coordinator of the university community <a href="https://github.com/open-source-uc">OpenSourceUc - OSUC</a> 🌐<br>
-  <br>
-    💡 I strive to make a difference and contribute to creating a better world.<br>
-    📸 Lover of photography. Find me on: <br>
-  <br></samp>
-</p>
-
-<p align="center">
-   <a href="https://instagram.com/diegocosta_no" target="blank">
-      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="25px" width="25px" />
-      &#8203;
-   </a>
-   &nbsp; &nbsp; &nbsp;
-   <a href="https://t.me/diegocosta_no" target="blank">
-      <img align="center" alt="Telegram" width="25px" src="https://icons-for-free.com/iconfiles/png/512/Telegram-1324888767380505522.png" />
-      &#8203;
-   </a>
-   &nbsp; &nbsp; &nbsp;
-   <a href="https://www.linkedin.com/in/diegocostar/" target="blank">
-      <img align="center" alt="LinkedIn" width="25px" src="https://img.icons8.com/metro/452/linkedin.png" />
-      &#8203;
-   </a>
+  <a href="https://instagram.com/diegocosta_no" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  &nbsp; &nbsp; &nbsp;
+  <a href="https://t.me/diegocosta_no" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Telegram-%2300AFF1.svg?&style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  &nbsp; &nbsp; &nbsp;
+  <a href="https://www.linkedin.com/in/diegocostar/" target="blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
 ---
 
-<p align="center"><front size="25"><samp>A bit about me in code</samp></front></p>
+<h4 align="center"><samp>A bit about me in code</samp></h4>
 
 ```python
 #!/usr/bin/python
@@ -46,26 +51,22 @@ class Engineer:
 
     def __init__(self):
         self.name = "Diego Costa"
-        self.role = "Bachelor and Student of Industrial Civil Engineering"
+        self.role = "Industrial Civil Engineer with a diploma in Information Technology"
         self.university = "Pontifical Catholic University of Chile"
-        self.language_spoken = ["es_CL", "en_US"]
+        self.languages_spoken = ["es_CL", "en_US"]
         self.hobbies = [
-              "Photography",
-              "Contributing to open-source projects",
-              "Participating in communities",
-              ]
+            "📸 Photography",
+            "🌐 Contributing to open-source projects",
+            "🤝 Engaging with the community",
+        ]
 
     def say_hi(self):
-        print("Hello world! This is Diego, building a better future and changing the world.")
+        print(f"Hello world! This is {self.name}, building a better future and making a difference.")
 
 
 me = Engineer()
 me.say_hi()
 ```
 
----
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=diegocostares&show_icons=true&theme=ayu-mirage" alt="GitHub Stats" /></p>
 
-<b><samp>:computer: &nbsp;Some statistics</samp></b>
-<br/></p>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=diegocostares&show_icons=true&theme=ayu-mirage" alt="abhisheknaiidu" /></p>

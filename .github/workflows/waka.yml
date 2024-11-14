@@ -1,11 +1,12 @@
 name: Waka Readme
+#https://github.com/anmol098/waka-readme-stats
 
 on:
   workflow_dispatch:
   schedule:
-    # Runs at 12am 
+    # Runs at 12am
     - cron: '30 18 * * *'
-  
+
 jobs:
   update-readme:
     name: Update Readme with Metrics
@@ -15,17 +16,16 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          #https://github.com/anmol098/waka-readme-stats
-          SHOW_COMMIT: "False"
+          SHOW_COMMIT: "True"
           SHOW_LINES_OF_CODE: "False"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_DAYS_OF_WEEK: "True"
-          SHOW_LANGUAGE: "False"
+          SHOW_LANGUAGE: "True"
           SHOW_OS: "False"
-          SHOW_PROJECTS: "True"
+          SHOW_PROJECTS: "False"
           SHOW_TIMEZONE: "False"
           SHOW_EDITORS: "False"
-          SHOW_SHORT_INFO: "False" #
+          SHOW_SHORT_INFO: "False"
           SHOW_LOC_CHART: "False"
-          SHOW_LANGUAGE_PER_REPO: "False"
+          SHOW_LANGUAGE_PER_REPO: "True"
           LOCALE: "es"
