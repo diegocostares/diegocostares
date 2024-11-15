@@ -1,5 +1,4 @@
 name: Waka Readme
-#https://github.com/anmol098/waka-readme-stats
 
 on:
   workflow_dispatch:
