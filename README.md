@@ -75,6 +75,15 @@ me.say_hi()
   <br/></p>
 
 <!--START_SECTION:waka-->
+
+```txt
+TypeScript    7 hrs 55 mins   ███████▒░░░░░░░░░░░░░░░░░   29.65 %
+Ruby          7 hrs 34 mins   ███████░░░░░░░░░░░░░░░░░░   28.36 %
+Python        6 hrs 7 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.93 %
+Markdown      58 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
+YAML          54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
+```
+
 <!--END_SECTION:waka-->
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=diegocostares&show_icons=true&theme=ayu-mirage" alt="GitHub Stats" /></p>
