@@ -75,15 +75,79 @@ me.say_hi()
   <br/></p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C129%20hrs%205%20mins-blue?style=flat)
 
-```txt
-TypeScript    7 hrs 55 mins   ███████▒░░░░░░░░░░░░░░░░░   29.65 %
-Ruby          7 hrs 34 mins   ███████░░░░░░░░░░░░░░░░░░   28.36 %
-Python        6 hrs 7 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.93 %
-Markdown      58 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
-YAML          54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
+![Profile Views](http://img.shields.io/badge/Visitas%20al%20perfil-1-blue?style=flat)
+
+**🐱 Mis datos de GitHub** 
+
+> 📦 536.3 kB Almacenamiento de GitHub utilizado 
+ > 
+> 🏆 13 Contribuciones durante el año 2026
+ > 
+> 🚫 No abierto para contratación
+ > 
+> 📜 27 Repositorios Públicos 
+ > 
+> 🔑 25 Repositorios Privados 
+ > 
+**Soy nocturno 🦉** 
+
+```text
+🌞 Mañana                 128 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+🌆 Día                    1195 commits        ███████████░░░░░░░░░░░░░░   44.76 % 
+🌃 Tarde                  738 commits         ███████░░░░░░░░░░░░░░░░░░   27.64 % 
+🌙 Noche                  609 commits         ██████░░░░░░░░░░░░░░░░░░░   22.81 % 
+```
+📅 **Soy más productivo los Sábado** 
+
+```text
+Lunes                    348 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
+Martes                   361 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
+Miércoles                346 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
+Jueves                   392 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
+Viernes                  227 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
+Sábado                   513 commits         █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
+Domingo                  483 commits         █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
 ```
 
+
+📊 **Esta semana me dediqué a** 
+
+```text
+🕑︎ Zona Horaria: America/Santiago
+
+💬 Lenguajes: 
+Sin actividad registrada esta semana
+
+🔥 Editores: 
+Sin actividad registrada esta semana
+
+🐱‍💻 Proyectos: 
+Sin actividad registrada esta semana
+
+💻 Sistema Operativo: 
+Sin actividad registrada esta semana
+```
+
+**Programo principalmente en Python** 
+
+```text
+Python                   12 repos            ███████░░░░░░░░░░░░░░░░░░   26.09 % 
+TypeScript               8 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
+Jupyter Notebook         6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+Astro                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+Bru                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+```
+
+
+
+**Cronología**
+
+![Lines of Code chart](https://raw.githubusercontent.com/diegocostares/diegocostares/main/assets/bar_graph.png)
+
+
+ Last Updated on 16/07/2026 19:39:05 UTC
 <!--END_SECTION:waka-->
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=diegocostares&show_icons=true&theme=ayu-mirage" alt="GitHub Stats" /></p>
