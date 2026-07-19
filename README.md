@@ -77,7 +77,7 @@ me.say_hi()
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C129%20hrs%205%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Visitas%20al%20perfil-5-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Visitas%20al%20perfil-4-blue?style=flat)
 
 **🐱 Mis datos de GitHub** 
 
@@ -147,7 +147,7 @@ Bru                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/diegocostares/diegocostares/main/assets/bar_graph.png)
 
 
- Last Updated on 18/07/2026 19:39:39 UTC
+ Last Updated on 19/07/2026 19:39:29 UTC
 <!--END_SECTION:waka-->
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=diegocostares&show_icons=true&theme=ayu-mirage" alt="GitHub Stats" /></p>
